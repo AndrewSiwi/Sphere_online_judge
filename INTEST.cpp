@@ -16,8 +16,7 @@ int main()
     while(n--)
     {
         int l;
-        cin >> l;        
-
+        cin >> l;
         if(l % k == 0) ret++;
     }
 
